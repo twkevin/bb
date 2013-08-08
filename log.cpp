@@ -7,7 +7,7 @@
 #if QX_WIN32
 #include "Win32_setting.h"
 #endif
-
+bbbbbbbbbbbbbbbbbbbbbbbb
 NS_QX_BEGIN
 
 std::map<qxUInt16, string> s_pMapPriName;
